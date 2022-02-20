@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Berker Uysal
 - 👀 I’m interested in Mobile Development 
-- 🌱 I’m currently learning Kotlin and Flutter 
+- 🌱 I’m currently learning Native Android Development with Kotlin
 - 💞️ I’m looking to collaborate on Mobile but especially Android development
 - 📫 You can reach me to my email that berkeru79@gmail.com
 
